@@ -59,7 +59,7 @@ header .overlay {
 
 .enter:hover {
 	background-color: black;
-	outline-width: 0px;
+	outline-width: 1px;
 }
 
 
