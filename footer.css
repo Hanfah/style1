@@ -24,7 +24,9 @@ header {
   width: 100%;
   overflow: hidden;
 }
-
+.footer-section-one .footer-heading h2{
+	text-align: center;
+}
 header video {
   position: absolute;
   top: 50%;
