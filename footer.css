@@ -78,9 +78,19 @@ header .overlay {
 	height: auto;
 }
 .text {
-	background-color: #800000;
+	background-color: black;
+	margin-bottom: 0px;
+	color: #800000;
+}
+
+.texttext {
+	background: black;
+	color: red;
+	text-align: center;
 	margin-bottom: 0px;
 }
+
+
 nav li a {
 color: white;
 }
