@@ -12,6 +12,10 @@ body {
 
 }
 
+
+.toggle {
+	background-color: white;
+}
 header {
   position: relative;
   background-color: black;
